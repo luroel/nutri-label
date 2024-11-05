@@ -16,6 +16,13 @@ header h1 {
     margin: 1rem 0;
 }
 
+.label {
+    border: 2px solid #000;
+    width: 270px;
+    margin: 20px auto;
+    padding: 0 7px;
+}
+
 .divider {
     border: 1px solid #888989;
 }
@@ -23,3 +30,4 @@ header h1 {
 .thick-divider {
     border: 4px solid #000;
 }
+
