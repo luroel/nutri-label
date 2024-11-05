@@ -7,7 +7,19 @@ html {
     font-size: 16px;
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header h1 {
     text-align: center;
     margin: 1rem 0;
+}
+
+.divider {
+    border: 1px solid #888989;
+}
+
+.thick-divider {
+    border: 4px solid #000;
 }
