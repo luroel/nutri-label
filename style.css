@@ -14,7 +14,7 @@ body {
 header h1 {
     text-align: center;
     margin: -4px 0;
-    letter-spacing: 0.15px
+    letter-spacing: 0.15px;
 }
 
 .label {
@@ -26,6 +26,7 @@ header h1 {
 
 .divider {
     border: 1px solid #888989;
+    margin: 2px 0;
 }
 
 .thick-divider {
