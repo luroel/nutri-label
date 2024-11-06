@@ -72,3 +72,7 @@ p {
     justify-content: space-between;
     align-items: end;
   }
+
+  .right {
+    justify-content: flex-end;
+  }
