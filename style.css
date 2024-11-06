@@ -29,8 +29,17 @@ header h1 {
     margin: 2px 0;
 }
 
-.thick-divider {
-    border: 4px solid #000;
+.medium {
+    height: 5px;
+}
+
+.thick {
+    height: 10px;
+}
+
+.thick, .medium {
+    background-color: black;
+    border: 0;
 }
 
 .bold {
